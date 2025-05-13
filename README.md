@@ -1,4 +1,6 @@
 # firstrepo
 this is first repo
 <br>
-author jyoti chauhan
+author
+ jyoti student
+ bca
